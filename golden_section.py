@@ -1,6 +1,8 @@
 from math import sqrt
 from turtle import done, rt, fd, pensize, pencolor, circle, lt, speed, hideturtle
 
+#este es el primer cambio que hago en el archivo
+
 PHI = 2 / (sqrt(5) - 1)
 
 # def square():
